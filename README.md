@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="left">Reach Me Out 🔍 </h2>
+<h2 align="left"> 🔍 Reach Me Out </h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mayis-/" target="_blank">
