@@ -9,7 +9,6 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmdjN6MHlqMWRwcDlyc2Z0cXdpaGxtbnJyMmE2ZW4zemE0ajE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EQFQClpZwYng5njNuv/giphy.gif"  />
 
 <h2 align="left"> 💻 Tech Stack </h2>
-###
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
