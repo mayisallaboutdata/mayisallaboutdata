@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayisallaboutdata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZmdjN6MHlqMWRwcDlyc2Z0cXdpaGxtbnJyMmE2ZW4zemE0ajE0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EQFQClpZwYng5njNuv/giphy.gif"  />
 
 ###
