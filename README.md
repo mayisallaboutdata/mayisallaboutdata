@@ -1,75 +1,82 @@
-<h1 align="left">Hey 👋 I'm Mayis</h1>
-<hr>
+<div align="center">
+  <img height="270", src="https://github.com/user-attachments/assets/3a7df307-8728-4000-830d-6d35b9d8da8b"/>
+</div>
 
-<p align="left">
-  Hello there! I'm Mayis, a passionate Data Science student at Sapienza University of Rome 🎓. I love transforming data into insights and sharing innovative projects, experiments, and the occasional data adventure right here on GitHub 🧪.
-  
-  When I'm not immersed in code, you can find me vibing to my favorite tunes 🎶, exploring self-improvement books 📚, and always striving to level up both my technical skills and personal growth 🚀.
-</p>
 
-<hr>
+###
+
+<h2 align="left">Hey 👋 I'm Mayis</h2>
+
+###
+
+<p align="left">Hello there! I'm Mayis, a passionate Data Science student at Sapienza University of Rome 🎓. I love transforming data into insights and sharing innovative projects, experiments, and the occasional data adventure right here on GitHub 🧪.<br><br>When I'm not immersed in code, you can find me vibing to my favorite tunes 🎶, exploring self-improvement books 📚, and always striving to level up both my technical skills and personal growth 🚀.</p>
+
+###
 
 <h2 align="left">💻 Tech Stack</h2>
 
-<!-- Container for both columns -->
-<div style="width:100%; display:inline-block;">
+###
 
-  <!-- Left Column: Badges in Three Columns -->
-  <div style="display:inline-block; vertical-align:top; width:48%; margin-right:2%;">
-    <!-- We set 3 columns and a small gap for a compact layout -->
-    <div align="left" style="column-count:3; column-gap:4px;">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" height="18" alt="MySQL logo" />
-      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" height="18" alt="Neo4J logo" />
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" height="18" alt="SQLite logo" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" height="18" alt="Postgres logo" />
-      <img src="https://img.shields.io/badge/Datacamp-05192D?style=flat-square&logo=datacamp&logoColor=03E860" height="18" alt="Datacamp logo" />
-      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" height="18" alt="Anaconda logo" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" height="18" alt="NodeJS logo" />
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="18" alt="React logo" />
-      <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white" height="18" alt="Jupyter Notebook logo" />
-      <img src="https://img.shields.io/badge/RStudio-4285F4?style=flat-square&logo=rstudio&logoColor=white" height="18" alt="RStudio logo" />
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" height="18" alt="Visual Studio Code logo" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="18" alt="CSS3 logo" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="18" alt="HTML5 logo" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" height="18" alt="JavaScript logo" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" height="18" alt="Markdown logo" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" height="18" alt="Python logo" />
-      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" height="18" alt="R logo" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" height="18" alt="Matplotlib logo" />
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" height="18" alt="NumPy logo" />
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" height="18" alt="Pandas logo" />
-      <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white" height="18" alt="Plotly logo" />
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" height="18" alt="PyTorch logo" />
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" height="18" alt="scikit-learn logo" />
-      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white" height="18" alt="SciPy logo" />
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" height="18" alt="TensorFlow logo" />
-      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" height="18" alt="Microsoft Office logo" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="18" alt="Microsoft Excel logo" />
-      <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" height="18" alt="Microsoft PowerPoint logo" />
-      <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" height="18" alt="Microsoft Word logo" />
-      <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="18" alt="Power Bi logo" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="18" alt="Git logo" />
-    </div>
-  </div>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtanVpcTBtdjVsM25yeXdqYXAxa2JwaG54dmJ5eDA1ZGpibGY0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRt9B6fRO4mmQ/giphy.gif"  />
 
-  <!-- Right Column: GIF -->
-  <div style="display:inline-block; vertical-align:top; width:48%;">
-    <img
-      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHN3ZmZhNWp0NzExbW9sZTdnNG5hdzIxZTg0NHFiejA2cDZ3cWJpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XRt9B6fRO4mmQ/giphy.gif"
-      alt="Tech Stack GIF"
-      style="max-width: 100%; height: auto;"
-    />
-  </div>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?logo=neo4j&logoColor=white&style=for-the-badge" height="30" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudioide&logoColor=black&style=for-the-badge" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=black&style=for-the-badge" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="30" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
 </div>
 
+###
 
-<!-- Clear the floats so subsequent sections appear below -->
-<div style="clear: both;"></div>
-<hr>
+<br clear="both">
 
 <h2 align="left">🔍 Reach Me Out</h2>
+
+###
+
+<p align="left">Thanks for stopping by my GitHub profile! I'm always excited to connect with fellow data enthusiasts, innovators, and collaborators. Whether you have questions about my projects, ideas for a collaboration, or just want to share cool tech insights, I'd love to hear from you!<br><br>Feel free to reach out on LinkedIn 👥, or leave a comment on one of my repositories 💬.</p>
+
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/mayis-/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
+
+###
