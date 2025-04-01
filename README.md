@@ -2,7 +2,9 @@
 
 ### 
 
-<p align="left">A passionate Data Science student at Sapienza University of Rome. Welcome to my GitHub, where I share my projects, experiments, and the occasional data adventure.</p>
+<p align="left">Hello there! I'm Mayis, a passionate Data Science student at Sapienza University of Rome 🎓. I love transforming data into insights and sharing innovative projects, experiments, and the occasional data adventure right here on GitHub 🧪.
+
+When I'm not immersed in code, you can find me vibing to my favorite tunes 🎶, exploring self-improvement books 📚, and always striving to level up both my technical skills and personal growth 🚀. </p>
 
 ###
 
